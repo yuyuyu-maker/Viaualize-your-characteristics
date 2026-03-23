@@ -1,0 +1,3 @@
+distance=72.0554
+xr=000280.jpg
+true=blue_2_014_00592.jpg

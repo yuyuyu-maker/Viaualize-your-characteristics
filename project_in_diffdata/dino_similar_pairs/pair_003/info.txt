@@ -1,0 +1,3 @@
+distance=53.3038
+xr=000295.jpg
+true=G-outpost_1080.jpg

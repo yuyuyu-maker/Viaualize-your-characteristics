@@ -1,0 +1,3 @@
+distance=62.4451
+xr=000175.jpg
+true=red_2_003_00405.jpg

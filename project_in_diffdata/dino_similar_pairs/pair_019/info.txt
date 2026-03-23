@@ -1,0 +1,3 @@
+distance=68.3715
+xr=000076.jpg
+true=G-new_guard_780.jpg

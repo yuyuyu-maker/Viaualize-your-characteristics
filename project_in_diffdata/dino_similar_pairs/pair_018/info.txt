@@ -1,0 +1,3 @@
+distance=67.6687
+xr=000437.jpg
+true=frame_0005_2.png
